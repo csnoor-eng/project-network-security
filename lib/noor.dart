@@ -15,6 +15,8 @@ class A extends StatelessWidget {
             Row(
               children: [
                 Text("noor"),
+                Text("najeeb"),
+                
               ],
             )
           ],
