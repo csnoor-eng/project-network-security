@@ -12,6 +12,11 @@ class A extends StatelessWidget {
          child: Column(
           children: [
             Text("1"),
+            Row(
+              children: [
+                Text("noor"),
+              ],
+            )
           ],
          ),
          ),
