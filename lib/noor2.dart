@@ -17,7 +17,9 @@ class A extends StatelessWidget {
                 Text("noor"),
                 Text("najeeb"),
                 Text("alameri"),
-                Text("2")
+                Text("2"),
+                Text("2"),
+                
               ],
             )
           ],
