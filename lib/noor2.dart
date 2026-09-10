@@ -16,7 +16,8 @@ class A extends StatelessWidget {
               children: [
                 Text("noor"),
                 Text("najeeb"),
-                Text("alameri")
+                Text("alameri"),
+                Text("2")
               ],
             )
           ],
